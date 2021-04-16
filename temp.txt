@@ -1,0 +1,23 @@
+https://www.canva.com/design/DAEZKE48Q1k/share/preview?token=0Q_7RSAcPak6DfZiMmYEug&role=EDITOR&utm_content=DAEZKE48Q1k&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+Site com 5 páginas
+
+Home        /index
+Sobre       /about
+Projetos    /portifolio
+Links       /resume
+Contato     /contact
+
+Cores
+#ffffff //  Texto e Fundo
+#ffa46b //  Quadrados, molduras
+#3c95a8 //  Detalhes e Texto
+
+Fonts
+Titulo: Norwester (fulcaps senserif)
+Texto: Aleo (serif, clean and modern)
+
+Precisa de 3 fotos
+Rodolfo trabalhando em uma mesa
+Minhas mãos digitando visão de cima
+Minha mão escrevendo em um bloco, ao lado de um mac
