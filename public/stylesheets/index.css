@@ -83,7 +83,7 @@ h1 {
 
 @media (max-width: 800px) {
   h1 {
-    font-size: 700%;
+    font-size: 600%;
   }
 
   .subtitle {
